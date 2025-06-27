@@ -35,7 +35,7 @@ Libraries: pandas, scikit-learn, xgboost, SHAP, matplotlib, seaborn
 
 Preprocessing: Duplicate removal, label encoding, feature scaling
 
-Models used: XGBoost and MLPClassifier (ANN)
+Models used: XGBoost, MLPClassifier (ANN) and SVM.
 
 Tuning methods: RandomizedSearchCV for XGBoost, GridSearchCV for ANN
 
